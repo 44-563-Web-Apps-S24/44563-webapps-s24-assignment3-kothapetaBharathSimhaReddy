@@ -58,8 +58,20 @@
         </tr>
     </table>
 
+    <hr>
 
+    <h2>Code Display</h2>
+    <h4>Code Snippet: How to use Promise.all in JavaScript</h4>
+    <p> Below Snippet code explains the code ensures that all promises in the array are successfully resolved before executing the code inside the then block. If any one of them fails, the code inside the catch block is executed instead</p>
+    <pre>
+        Promise.all([ promise_1, promise_2 ]).then((values) => {
+            // all input Promises resolved
+        }).catch((reason) => {
+            // one of input Promises rejected
+        });
+    </pre>
 
-        
+    <a href="https://code.pieces.app/collections/javascript">Snippet Link</a>
+
 </body>    
 </html>
