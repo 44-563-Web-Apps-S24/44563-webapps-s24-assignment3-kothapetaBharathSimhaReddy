@@ -2,4 +2,4 @@
 # WebApps-F24-Assignment-3
 Assignment 3 - Basic HTML
 
-[Hosted at](https://github.com/kothapetaBharathSimhaReddy/from-Kothapeta/settings/pages)
+[Hosted at](https://github.com/44-563-Web-Apps-S24/44563-webapps-s24-assignment3-kothapetaBharathSimhaReddy/settings/pages)
